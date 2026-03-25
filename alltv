@@ -1,3 +1,9 @@
+{ 
+"name":"รวมช่องของก็อป", 
+"author":"ของฝากนักก็อปน่ะครับ", 
+"image":"https://www.psnsat.com/wp-content/uploads/2020/07/digital-ch-new.jpg",   
+"info":"For ของฝากนักก็อปน่ะครับ",
+"stations": 
 #EXTM3U url="https://liveiptvthai.vercel.app/"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Nebiela/iptvlive/refs/heads/main/live-streaming-logo.jpg" group-title="👨‍💻Streaming TV" ,A- สวัสดี สวีดัด By Edit By Neti ยินต้อนรับ
 #EXTVLCOPT:http-referrer=
@@ -5315,3 +5321,4 @@ https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hboous.vercel.app/
 https://hboous.vercel.app/
+}
