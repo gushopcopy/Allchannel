@@ -1,0 +1,34 @@
+{ 
+"name":"รวมช่องที่ก็อปมา", 
+"author":"ของฝากนักก็อป", 
+"image":"https://www.psnsat.com/wp-content/uploads/2020/07/digital-ch-new.jpg",   
+"info":"For ของฝากนักก็อปน่ะครับ",
+"stations": 
+
+[
+{
+"name":"NBT", 
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png",
+"url":"https://dookeela4.live/live-tv/nbt2hd",
+"referer":"https://dookeela.live/",
+"info":"Server dookeela",
+"playInNatPlayer":"true"},
+"name": "Monomax1-1",
+          "tvg": {
+            "id": "",
+            "name": "PLAY SPORTS FOOTBALL 1",
+            "logo": "https://dookeela4.live/uploads/1753517049.png",
+            "url": "",
+            "rec": ""
+},
+          "group": {
+            "title": "⚽ MonoMax"
+          },
+          "http": {
+            "referrer": "https://github.com/",
+            "user-agent": ""
+},
+          "url": "https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
+          "raw": "#EXTINF:-1 tvg-id=\"\" tvg-name=\"PLAY SPORTS FOOTBALL 1\" tvg-logo=\"https://dookeela4.live/uploads/1753517049.png\" group-title=\"⚽ MonoMax\",Monomax1-1 \r\n#EXTVLCOPT:http-referrer=https://github.com/\r\nhttps://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
+]
+}
